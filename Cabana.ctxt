@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cabana
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cabana\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombre\ p_precioBase\ p_alquiler\ p_servicio\ p_habitaciones
+comment1.target=Cabana(java.lang.String,\ double,\ int,\ Servicio,\ int)
+comment2.params=
+comment2.target=int\ getNroHabitaciones()
+comment3.params=p_nroHabitaciones
+comment3.target=void\ setNroHabitaciones(int)
+comment4.params=
+comment4.target=double\ costo()
+comment5.params=
+comment5.target=void\ liquidar()
+comment6.params=p_alojamiento
+comment6.target=int\ contar(java.lang.String)
+numComments=7

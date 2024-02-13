@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Renglon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Renglon\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cantidad\ importe\ item
+comment1.target=Renglon(int,\ double,\ Etiqueta)
+comment2.params=
+comment2.target=int\ getCantidad()
+comment3.params=p_cantidad
+comment3.target=void\ setCantidad(int)
+comment4.params=
+comment4.target=double\ getImporte()
+comment5.params=p_importe
+comment5.target=void\ setImporte(double)
+comment6.params=
+comment6.target=Etiqueta\ getItem()
+comment7.params=p_item
+comment7.target=void\ setItem(Etiqueta)
+comment8.params=
+comment8.target=void\ mostrar()
+numComments=9

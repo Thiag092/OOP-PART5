@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Comun
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Comun\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_costo\ p_plus
+comment1.target=Comun(java.lang.Double,\ double)
+comment2.params=
+comment2.target=double\ getPlus()
+comment3.params=p_plus
+comment3.target=void\ setPlus(double)
+comment4.params=q
+comment4.target=double\ precio(int)
+comment5.params=q
+comment5.target=double\ descuento(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.String\ tipo()
+numComments=8
